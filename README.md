@@ -25,10 +25,5 @@ Welcome to PGSeeker, the ultimate platform to discover comfortable and affordabl
 📌 Note:
 This repository contains the frontend and backend code for PGSeeker. The codebase is designed to help you set up a similar platform for PG accommodation listings. Feel free to explore, contribute, and use this code for educational and non-commercial purposes.
 
-🤝 Contributions:
-Contributions are welcome! If you have ideas for improvements or features, feel free to submit a pull request.
-
-🌐 Explore PGSeeker:
-Visit our website at https://pgseeker.netlify.app/
 
 Happy PG hunting!
